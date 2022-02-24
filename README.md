@@ -1,2 +1,2 @@
 # SetGeneration
-10000 set creation algorithm and tools
+10000 littlebits set creation algorithm and tools
